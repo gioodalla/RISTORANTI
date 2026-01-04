@@ -39,3 +39,8 @@ Malame (PD) 8.67
    - Voti Menu': [9.0, 8.5, 7.5]
    - Conto: 8.0
 
+prova (t) 6.00
+   - Location: 6.0
+   - Servizio: 6.0
+   - Voti Menu': [6.0, 6.0, 6.0]
+   - Conto: 6.0
