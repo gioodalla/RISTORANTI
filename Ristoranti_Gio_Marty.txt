@@ -43,3 +43,8 @@ Maresca (RN) 8.08
    - Servizio: 8.0
    - Voti Menu': [9.0, 7.0, 8.5]
    - Conto: 8.0
+Maresca (RN) 8.25
+   - Location: 8.0
+   - Servizio: 8.5
+   - Voti Menu': [9.0, 7.5, 8.5]
+   - Conto: 8.0
