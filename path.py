@@ -2,7 +2,7 @@ import os
 import subprocess
 
 # --- Configurazione repository ---
-repo_path = r'C:\Users\Lorenzo\OneDrive\Documenti\GitHub\RISTORANTI\RISTORANTI'  # METTI QUI il percorso del tuo repo clonato
+repo_path = r'"C:\Users\Lorenzo\Downloads\Ristoranti\Ristoranti.py"'  # METTI QUI il percorso del tuo repo clonato
 file_name = 'Ristoranti_Gio_Marty.txt'
 
 # --- Funzione per aggiornare GitHub ---
