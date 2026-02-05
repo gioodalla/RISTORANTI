@@ -38,4 +38,3 @@ Malame (PD) 8.67
    - Servizio: 8.5
    - Voti Menu': [9.0, 8.5, 7.5]
    - Conto: 8.0
-
